@@ -5,6 +5,7 @@ page {
   justify-content: flex-start;
 }
 
+
 .list {
   margin-top: 40rpx;
   height: auto;
